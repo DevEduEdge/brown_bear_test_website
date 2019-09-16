@@ -1,0 +1,27 @@
+body{
+  background-color: white;
+}
+/* Header */
+#header_top{
+  background-color: ;
+  color: red;
+}
+.head{
+  font-style: normal;
+  font-family: sans-serif;
+  background-color: Brown;
+  text-align: center;
+  padding: 10px 20px;
+
+}
+
+.list{
+  font-size: normal;
+  list-style: none;
+  background-color:white;
+  color: white;
+}
+.list hover{
+  background-color: purple;
+
+}
